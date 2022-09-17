@@ -5,23 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9829ff5d-528a-4220-af93-b308c3b7d5e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/leanne/ActivityPojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/leanne/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WebGUITesting/BasicWebTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/boredapitestingframework/BoredAPIFrameworksTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/boredapitestingframework/connection/ConnectionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/boredapitestingframework/dto/ActivityDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/boredapitestingframework/injection/Injector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/leanne/ActivityTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/sparta/leanne/RestAssuredTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
