@@ -13,7 +13,7 @@ import java.net.http.HttpResponse;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 //Service Object Model = connecting, creating the DTO, move DTO
-//pojo field constructors setter getts no
+//pojo field constructors setter gets no
 public class ActivityTests {
     private static final String BASE_URL = "http://www.boredapi.com/api/activity/";
     private static ActivityPojo activityPojo;
